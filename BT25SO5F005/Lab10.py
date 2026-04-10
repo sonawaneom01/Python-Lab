@@ -3,7 +3,7 @@
 # 1. Writing to a file
 with open("example.txt", "w") as file:
     file.write("Hello, this is a sample text file.\n")
-    file.write("My name is Meeran.\n")
+    file.write("My name is Om.\n")
 
 print("File created and data written successfully.")
 
